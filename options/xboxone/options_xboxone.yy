@@ -11,10 +11,10 @@
     "option_xbone_logo_background_colour": {
         "Value": 4282795590
     },
-    "option_xbone_logo_large": "${base_options_dir}\\xboxone\\logos\\Logo.png",
-    "option_xbone_logo_small": "${base_options_dir}\\xboxone\\logos\\SmallLogo.png",
-    "option_xbone_logo_store": "${base_options_dir}\\xboxone\\logos\\StoreLogo.png",
-    "option_xbone_logo_wide": "${base_options_dir}\\xboxone\\logos\\WideLogo.png",
+    "option_xbone_logo_large": "${options_dir}\\xboxone\\logos\\Logo.png",
+    "option_xbone_logo_small": "${options_dir}\\xboxone\\logos\\SmallLogo.png",
+    "option_xbone_logo_store": "${options_dir}\\xboxone\\logos\\StoreLogo.png",
+    "option_xbone_logo_wide": "${options_dir}\\xboxone\\logos\\WideLogo.png",
     "option_xbone_network_config_manifest": "",
     "option_xbone_product_id": "",
     "option_xbone_program_id": "A149997C-9864-464E-9E03-8E06832F4CFF",
@@ -27,7 +27,7 @@
     "option_xbone_scale": 0,
     "option_xbone_service_config_id": "",
     "option_xbone_service_config_manifest": "",
-    "option_xbone_splash_screen": "${base_options_dir}\\xboxone\\SplashScreen.png",
+    "option_xbone_splash_screen": "${options_dir}\\xboxone\\SplashScreen.png",
     "option_xbone_splash_screen_colour": {
         "Value": 4282795590
     },
