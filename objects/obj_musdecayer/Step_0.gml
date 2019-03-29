@@ -1,5 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-self.decaysnd = mus_land_field
-self.dpa = 0.003
-self.a = 2
+self.alarm[0] = self.a

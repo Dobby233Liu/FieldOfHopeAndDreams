@@ -6,5 +6,5 @@ _music_decayer = instance_create_depth(-20, -20, 0, obj_musdecayer)
 with (_music_decayer){
 	self.decaysnd = argument0
 	self.dpa = argument1
-	self.alarm[0] = argument2
+	self.a = argument2
 }
