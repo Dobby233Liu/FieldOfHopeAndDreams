@@ -1,0 +1,6 @@
+ini_open("global-config/true_config.ini")
+if (!ini_key_exists("debug", "scrshot_num")) ini_write_real("debug", "scrshot_num", 0)
+else ini_write_real("debug", "scrshot_num", ini_read_real("debug", "scrshot_num", 0) + 1)
+self.scrnlast = ini_read_real("debug", "scrshot_num", 0)
+screen_save("gui-shots/fohad-screenshot-" + scr_lang_timestr() + "-num-" + string(self.scrnlast) + ".png")
+ini_close()
