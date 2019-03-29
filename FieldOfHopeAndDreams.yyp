@@ -871,6 +871,14 @@
             }
         },
         {
+            "Key": "dedd087a-4380-4fe9-90ba-cb3cc147868a",
+            "Value": {
+                "id": "d88e3919-953a-4657-9880-14fa3f9b7297",
+                "resourcePath": "sprites\\spr_fieldmuslogo_font\\spr_fieldmuslogo_font.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e031d9c4-6397-4867-a61d-56c5182be6fd",
             "Value": {
                 "id": "01d0d5e8-da8c-409d-a62c-07f7ef9f4093",

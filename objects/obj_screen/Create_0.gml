@@ -15,3 +15,4 @@ randomize()
 global.microwave = 0
 if (global.debug && !show_question(scr_lang("obj_screen_Create_0"))) game_end()
 camera_apply(view_camera[0]);
+window_set_caption(scr_lang("obj_screen_Draw_75_0"))
