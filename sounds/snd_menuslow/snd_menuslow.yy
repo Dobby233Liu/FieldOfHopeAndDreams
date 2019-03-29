@@ -1,0 +1,14 @@
+{
+    "id": "6aba5860-745b-4561-a95c-80223500295a",
+    "modelName": "GMSound",
+    "mvc": "1.0",
+    "name": "snd_menuslow",
+    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "bitDepth": 1,
+    "bitRate": 128,
+    "kind": 3,
+    "preload": false,
+    "sampleRate": 44100,
+    "type": 0,
+    "volume": 1
+}

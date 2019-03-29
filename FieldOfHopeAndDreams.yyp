@@ -231,6 +231,22 @@
             }
         },
         {
+            "Key": "3f162b45-742d-440d-9ae3-9fcb84c55807",
+            "Value": {
+                "id": "88a32073-330f-4bd4-92c8-e40e630ebda5",
+                "resourcePath": "scripts\\scr_musdecayer\\scr_musdecayer.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4423f730-f78a-4315-bd2a-ff5415185fee",
+            "Value": {
+                "id": "de6967f2-5fd0-488b-9a2f-14a12eca3dd9",
+                "resourcePath": "sounds\\snd_chase\\snd_chase.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "450874ce-37c6-42c0-97e2-d554d14d3f18",
             "Value": {
                 "id": "d814c11c-5174-489d-a1ed-8caf77241e26",
@@ -308,6 +324,14 @@
                 "id": "0462a11f-ea9e-4b47-af6c-30a820d2bbee",
                 "resourcePath": "views\\65096c2a-b71a-4f67-a5eb-915eecf671ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6aba5860-745b-4561-a95c-80223500295a",
+            "Value": {
+                "id": "b65b4bc9-d0c5-422f-83d3-ddcefe4b97a0",
+                "resourcePath": "sounds\\snd_menuslow\\snd_menuslow.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -863,6 +887,14 @@
             }
         },
         {
+            "Key": "e1b85bc7-e863-45f9-979f-a9b0c89c5553",
+            "Value": {
+                "id": "fdef43a3-c1fd-4d03-a18a-dc43df0d8b1b",
+                "resourcePath": "sounds\\snd_smenu\\snd_smenu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e368056a-2b9a-4d71-81ce-890fdfe45e27",
             "Value": {
                 "id": "0398f67b-f6c9-485b-889c-f63eb3c8889d",
@@ -981,6 +1013,14 @@
                 "resourcePath": "sprites\\spr_sun\\spr_sun.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "ff4f59c9-0545-4a4e-b1a5-bab1a3f45f5e",
+            "Value": {
+                "id": "74b80586-52ca-4228-b21c-b45178c78146",
+                "resourcePath": "objects\\obj_musdecayer\\obj_musdecayer.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
@@ -995,6 +1035,7 @@
         "fa393563-c111-4bd2-a104-f49e077b10ea",
         "d3e37cec-de99-46f9-a212-9e8610d6ca66",
         "0c6a7cdb-893c-4f89-8bd8-24b6ce91c3c3",
+        "3f162b45-742d-440d-9ae3-9fcb84c55807",
         "9464a0fd-6975-4e91-93a8-0682e137e77b",
         "f9f52bf9-397f-4e9d-9e9b-6a5594fb71b4",
         "8028ffd8-0471-4674-94a9-c027d8006b5f",
