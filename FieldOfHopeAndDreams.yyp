@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "16f7b4f8-17db-4957-92d1-ad8e20904ae3",
-            "Value": {
-                "id": "2875b132-2d20-404b-9f87-52c79c77b490",
-                "resourcePath": "fonts\\fnt_main_menu\\fnt_main_menu.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "17bb4796-75f3-40ba-9074-03970c3c0cf7",
             "Value": {
                 "id": "9e6bcb81-9eaf-4c7a-b6bd-b24854228673",
@@ -612,14 +604,6 @@
                 "id": "7b9710b4-22e4-4150-8a0d-d4f81b695057",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
-            }
-        },
-        {
-            "Key": "a6441a65-6551-4e31-bb68-2b3a40e84703",
-            "Value": {
-                "id": "58fe65a7-b56e-432c-8521-c0586ab81c28",
-                "resourcePath": "fonts\\fnt_mainbig_menu\\fnt_mainbig_menu.yy",
-                "resourceType": "GMFont"
             }
         },
         {
