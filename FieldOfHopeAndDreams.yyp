@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01772b9f-1165-4288-b41a-e521eb5a2135",
+            "Value": {
+                "id": "8593e2a7-3b2b-4b66-9e6e-0dfe10178956",
+                "resourcePath": "views\\01772b9f-1165-4288-b41a-e521eb5a2135.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "08c0da93-2044-441f-9106-060a8adcc216",
             "Value": {
                 "id": "b55f2a6e-d050-404d-8e25-75d06168d48c",
@@ -252,6 +260,14 @@
                 "id": "88a32073-330f-4bd4-92c8-e40e630ebda5",
                 "resourcePath": "scripts\\scr_musdecayer\\scr_musdecayer.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "42446716-3b70-4a35-b335-ab15ae7c6261",
+            "Value": {
+                "id": "9a725263-edc4-43a6-a842-211893df0e11",
+                "resourcePath": "objects\\obj_surveybg_init\\obj_surveybg_init.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -639,6 +655,14 @@
             }
         },
         {
+            "Key": "a6bc1978-b58b-49b4-9ace-8b30a4c3a38a",
+            "Value": {
+                "id": "95b6d3fd-a1ef-4f8a-9a00-67a702ffc053",
+                "resourcePath": "objects\\obj_surveybg\\obj_surveybg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a70ccada-3044-439e-8323-4d8ba7adee66",
             "Value": {
                 "id": "03380a92-bfb9-4575-b18a-0758524d2acd",
@@ -788,6 +812,14 @@
                 "id": "cacb0675-94b3-40f8-84db-facd67e7260e",
                 "resourcePath": "views\\c64224db-72be-4122-8dcb-1d6832628b2a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c6686cc3-514e-4736-b8e0-04f4c7594ec4",
+            "Value": {
+                "id": "33cc4801-15ae-42a6-b24f-492a81a6100f",
+                "resourcePath": "scripts\\draw_background_ext\\draw_background_ext.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -951,6 +983,14 @@
             }
         },
         {
+            "Key": "eac7f3d2-ae74-4a4b-8d5f-9293611f395d",
+            "Value": {
+                "id": "ae463276-2c92-41e7-93b0-6ba6787f4587",
+                "resourcePath": "sprites\\bg_surveybg\\bg_surveybg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "eb2229fa-6367-4d72-8a8a-827d2cee753b",
             "Value": {
                 "id": "b138e442-6ec9-4bcf-be8a-40ac117f3d70",
@@ -1057,6 +1097,7 @@
         "e368056a-2b9a-4d71-81ce-890fdfe45e27",
         "8fad8c5a-8fef-4d68-8681-6118b8400a4e",
         "fa393563-c111-4bd2-a104-f49e077b10ea",
+        "c6686cc3-514e-4736-b8e0-04f4c7594ec4",
         "d3e37cec-de99-46f9-a212-9e8610d6ca66",
         "0c6a7cdb-893c-4f89-8bd8-24b6ce91c3c3",
         "3f162b45-742d-440d-9ae3-9fcb84c55807",
