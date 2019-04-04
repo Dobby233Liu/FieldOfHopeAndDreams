@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "bd0b45c9-06ed-40b1-94c1-f893d7c5bedc",
+            "Value": {
+                "id": "ba0e2289-8857-4a42-8586-a73926bc7dcf",
+                "resourcePath": "sounds\\mus_creepy\\mus_creepy.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "bdd40e7f-8131-4857-9e3e-78f7f945e3f3",
             "Value": {
                 "id": "079453c1-3806-4933-a4ee-922ae877289f",
