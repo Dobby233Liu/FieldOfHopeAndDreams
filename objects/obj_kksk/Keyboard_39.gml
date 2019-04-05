@@ -7,6 +7,3 @@ x += 5 + self.speedup
 self.stopkksk = 1
 self.image_speed = 1 + (self.speedup / 5)
 }
-if(place_meeting(x, y, obj_interactableparent)){
-	with(instance_place(x, y, obj_interactableparent)) event_user(9)
-}
