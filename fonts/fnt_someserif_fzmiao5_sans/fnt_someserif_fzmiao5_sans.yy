@@ -1,7 +1,7 @@
 {
     "id": "78f17028-fdc1-4906-815d-7c067f0b0be2",
     "modelName": "GMFont",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "fnt_someserif_fzmiao5_sans",
     "AntiAlias": 1,
     "TTFName": null,
@@ -10,6 +10,7 @@
     "charset": 0,
     "first": 0,
     "fontName": "FZMiaoWuS-R-GB",
+    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -121587,13 +121588,16 @@
             }
         }
     ],
-    "image": null,
+    "hinting": 0,
     "includeTTF": false,
+    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         
     ],
     "last": 0,
+    "maintainGms1Font": false,
+    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,

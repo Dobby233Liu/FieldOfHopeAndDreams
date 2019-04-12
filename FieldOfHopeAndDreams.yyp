@@ -66,7 +66,7 @@
             "Key": "0cc77867-bd82-4803-a7e6-5142349195b2",
             "Value": {
                 "id": "3510c283-2491-44b8-9ac2-eae5f60f0825",
-                "resourcePath": "sprites\\spr_notebg\\spr_notebg.yy",
+                "resourcePath": "sprites\\spr_mirror\\spr_mirror.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -386,7 +386,7 @@
             "Key": "6c673489-a4cc-4639-a945-49aa537dc888",
             "Value": {
                 "id": "62e0bf20-00d9-4651-9bd1-a24ff5760076",
-                "resourcePath": "objects\\obj_drawtext\\obj_drawtext.yy",
+                "resourcePath": "objects\\obj_mirror\\obj_mirror.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -876,6 +876,14 @@
                 "id": "90ce61b3-a345-43b5-8cd7-3aadc8d9c30b",
                 "resourcePath": "fonts\\fnt_main_cn\\fnt_main_cn.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "cda6b07a-0444-41cc-950b-4e0a9fb00bcb",
+            "Value": {
+                "id": "f4c7e1da-adb7-4893-8a23-ae6cb665cbcb",
+                "resourcePath": "objects\\obj_colorfulparent\\obj_colorfulparent.yy",
+                "resourceType": "GMObject"
             }
         },
         {

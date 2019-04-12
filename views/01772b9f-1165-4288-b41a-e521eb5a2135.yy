@@ -5,7 +5,8 @@
     "name": "01772b9f-1165-4288-b41a-e521eb5a2135",
     "children": [
         "42446716-3b70-4a35-b335-ab15ae7c6261",
-        "a6bc1978-b58b-49b4-9ace-8b30a4c3a38a"
+        "a6bc1978-b58b-49b4-9ace-8b30a4c3a38a",
+        "cda6b07a-0444-41cc-950b-4e0a9fb00bcb"
     ],
     "filterType": "GMObject",
     "folderName": "backgrounder",

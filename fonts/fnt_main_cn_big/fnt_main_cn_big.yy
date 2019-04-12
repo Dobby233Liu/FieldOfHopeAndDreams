@@ -1,7 +1,7 @@
 {
     "id": "bf5e0d77-2af0-44c6-adbe-c7d95f6705bf",
     "modelName": "GMFont",
-    "mvc": "1.0",
+    "mvc": "1.1",
     "name": "fnt_main_cn_big",
     "AntiAlias": 1,
     "TTFName": "",
@@ -10,6 +10,7 @@
     "charset": 0,
     "first": 0,
     "fontName": "FZXS18",
+    "glyphOperations": 0,
     "glyphs": [
         {
             "Key": 32,
@@ -113127,13 +113128,16 @@
             }
         }
     ],
-    "image": null,
+    "hinting": 0,
     "includeTTF": false,
+    "interpreter": 0,
     "italic": false,
     "kerningPairs": [
         
     ],
     "last": 0,
+    "maintainGms1Font": false,
+    "pointRounding": 0,
     "ranges": [
         {
             "x": 32,
